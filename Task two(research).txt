@@ -1,0 +1,13 @@
+Task two (Research)
+
+Installed libraries in Cod eeditor:
+
+i. pip install spacy scispacy transformers - for natural language processing (NLP)
+
+ii. pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.4/en_core_sci_sm-0.2.4.tar.gz 
+    - This model is specifically designed to handle biomedical and scientific texts, such as extracting named entities (e.g., diseases, chemicals, genes) from research papers or documents in the medical domain.
+      Lightweight Model: en_core_sci_sm is a smaller versio
+
+iii. pip install transformers
+     - For pre trained models
+	 - for Advanced NLP tasks such as using for task 3.2. Where we should use the Auto Tokenizer.
