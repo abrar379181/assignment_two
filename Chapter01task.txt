@@ -1,0 +1,7 @@
+The uploaded picture is in RGB mode with 1000x1500 pixel dimensions. This implies that each pixel is made up of three color components: red (R), green (G), and blue (B).
+
+We will next put the process into practice, which entails adding the created number to each of the red, green, and blue components in order to change the pixel values. we will then calculate the total of all the values of the red (R) pixels in the altered picture. Before we make the changes, let us generate the number based on the current time. 
+
+The algorithm has produced the number 53. We will now create the updated image, add this value to each red, green, and blue pixel in the original, and figure out the total of all the red pixel values in the new image.
+
+In the altered image, the total value of all the red pixels is 184,377,408.
